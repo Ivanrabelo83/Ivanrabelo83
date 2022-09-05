@@ -2,7 +2,7 @@
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](85986934576)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-rabelo-b3586210b/)
-[![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.gitshowcase.com/ivanrabelo83)
+[![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://radiant-torrone-a3887e.netlify.app/)
 
 ![Ivan Rabelo Stats](https://github-readme-stats.vercel.app/api?username=ivanrabelo83&show_icons=true&theme=dracula)
 
